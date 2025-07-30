@@ -19,22 +19,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular](#angular)
   * [Official Resources](#official-resources)
   * [Community](#community)
-    * [Newsletters](#newsletters)
-    * [Podcasts](#podcasts)
-    * [Bluesky](#bluesky)
-    * [X](#x)
-      * [Angular Team](#angular-team)
-      * [Experts](#experts)
-      * [Google Developer Experts](#google-developer-experts)
+  * [Newsletters](#newsletters)
+  * [Podcasts](#podcasts)
+  * [Bluesky](#bluesky)
+  * [X](#x)
   * [Learning](#learning)
-    * [Blogs](#blogs)
-    * [Books](#books)
-    * [Certification](#certification)
-    * [Cheatsheet](#cheatsheet)
-    * [Exercises](#exercises)
-    * [Training](#training)
-    * [Style Guides](#style-guides)
-    * [YouTube Channels](#youtube-channels)
   * [Accessibility](#accessibility)
   * [AI](#ai)
   * [Analytics](#analytics)
@@ -47,10 +36,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Documentation Tools](#documentation-tools)
   * [Feature Flags](#feature-flags)
   * [Generators](#generators)
-    * [Go](#go)
-    * [NET](#net)
-    * [Node](#node)
-    * [Spring Boot](#spring-boot)
   * [GraphQL](#graphql)
   * [HTTP](#http)
   * [Integrations](#integrations)
@@ -62,13 +47,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [SEO](#seo)
   * [Server-Side Rendering](#server-side-rendering)
   * [Site Templates](#site-templates)
-    * [Free](#free)
-    * [Paid](#paid)
   * [Testing](#testing)
-    * [E2E](#e2e)
-    * [Component](#component)
-    * [Guides](#guides)
-    * [Helpers](#helpers)
   * [Updating](#updating)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
@@ -85,10 +64,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Editor Components](#editor-components)
   * [File Upload](#file-upload)
   * [Forms](#forms)
-    * [General](#general)
-    * [Form Controls](#form-controls)
-    * [JSON Forms](#json-forms)
-    * [Validation](#validation)
   * [Icons](#icons)
   * [Images](#images)
   * [Keyboard Mouse](#keyboard-mouse)
@@ -106,18 +81,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Router](#router)
   * [Scroll](#scroll)
   * [State Management](#state-management)
-    * [NgRx](#ngrx)
-    * [NGXS](#ngxs)
-    * [Additional](#additional)
   * [Storage](#storage)
   * [Tooltips](#tooltips)
   * [UI Libraries](#ui-libraries)
-    * [Unspecified](#unspecified)
-    * [Material Based](#material-based)
-    * [Bootstrap Based](#bootstrap-based)
-    * [Tailwind CSS Based](#tailwind-css-based)
-    * [Node Based](#node-based)
-    * [Primitives](#primitives)
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
@@ -160,7 +126,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular talents](https://www.angulartalents.com/) - Angular talents empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
 
-#### Newsletters
+### Newsletters
 
 * [angular addicts](https://www.angularaddicts.com/)
 * [weekly angular](https://prodigious-knitter-4508.ck.page/subscribe)
@@ -169,7 +135,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [danywalls](https://www.danywalls.com/newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
 
-#### Podcasts
+### Podcasts
 
 * [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular)
 * [Angular Experts](https://angularexperts.io/podcasts/)
@@ -179,13 +145,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Catch Up](https://angular-catch-up.podbean.com/)
 * [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - In Spanish.
 
-#### Bluesky
+### Bluesky
 
 * [Angular Starter Pack by @brandonroberts.dev](https://bsky.app/starter-pack/brandonroberts.dev/3l7lzgkwkqu2n)
 
-#### X
+### X
 
-##### Angular Team
+> Angular Team
 
 * [Minko Gechev](https://x.com/mgechev)
 * [Alan Agius](https://x.com/AlanAgius4)
@@ -202,8 +168,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Pawel Kozlowski](https://x.com/pkozlowski_os)
 * [Dylan Hunn](https://x.com/dylhunn)
 
-##### Experts
-
 > List of Angular experts you should follow on X (in no particular order). This list is by no means complete.
 
 * [@PatrickJS__](https://x.com/PatrickJS__)
@@ -216,7 +180,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@maciejtreder](https://x.com/maciejtreder)
 * [@maartentibau](https://x.com/maartentibau)
 
-##### Google Developer Experts
+> Google Developer Experts
 
 * [Jack Franklin](https://x.com/jack_franklin)
 * [Thierry Chatel](https://x.com/ThierryChatel)
@@ -261,7 +225,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Learning
 
-#### Blogs
+> Blogs
 
 * [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJS & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
@@ -300,7 +264,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
 * [Practical Angular Guide](https://practical-angular.donaldmurillo.com/) - Real-world-ish solutions for Angular developers By [Donald Murillo](https://github.com/DonaldMurillo).
 
-#### Books
+> Books
 
 * [Packt Publishing](https://www.packtpub.com/en-us/search?query=angular&sort=best-selling) - Your best option to find the largest variety of up-to-date programming books.
 * [GumRoad](https://gumroad.com/software-development/web-development/javascript?tags=angular) - Various Free and Paid Angular ebooks.
@@ -319,7 +283,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**.
 * [Enterprise Monorepo Angular Patterns](https://go.nx.dev/angular-patterns-ebook) - `Nx Core Team` **FREE**.
 
-#### Certification
+> Certification
 
 * [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
@@ -329,7 +293,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course.
 * [Altitude CSI](https://altitudecsi.org/products/angular-certification-program) - Angular Certification Program.
 
-#### Cheatsheet
+> Cheatsheet
 
 * [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs do not have a cheatsheet.
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
@@ -340,7 +304,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
 * [angular-interview-questions](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview in 2025.
 
-#### Exercises
+> Exercises
 
 * [angular-fundamental-lessons](https://github.com/MarkTechson/angular-fundamentals-lessons)
 * [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and TypeScript. These challenges revolve around real-life issues or specific features to elevate your skills.
@@ -351,7 +315,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [modern-angular-exercises](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 * [angular-debug-quest](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
-#### Training
+> Training
 
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 * [Angular Boot Camp](https://angularbootcamp.com)
@@ -373,13 +337,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to become an Angular expert.
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 
-#### Style Guides
+> Style Guides
 
 * [Official Angular style guide](https://angular.dev/style-guide)
 * [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 * [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
-#### YouTube Channels
+> YouTube Channels
 
 * [Angular](https://www.youtube.com/@Angular)
 * [NG CONF](https://www.youtube.com/@ngconfonline)
@@ -660,17 +624,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Generators
 
-#### Go
+> Go
 
 * [goxygen](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
 
-#### NET
+> NET
 
 * [abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
 * [LymeStack](https://www.lymestack.com/) - LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps.
 * [spiderly](https://github.com/filiptrivan/spiderly) - .NET (C#) code generator that transforms an EF Core model into a fully customizable .NET (C#) + Angular web app.
 
-#### Node
+> Node
 
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [Node Initializr](https://start.nodeinit.dev/) - Node Initializr offers a fast way to pull in all the dependencies you need for your application and does a lot of the setup for you.
@@ -678,7 +642,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [skulljs](https://skulljs.github.io/) - Skulljs aims to give a standardized file structure to create web applications based on popular JavaScript / TypeScript frameworks.
 * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
 
-#### Spring Boot
+> Spring Boot
 
 * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
 * [jangular-cli](https://github.com/nathangtg/jangular-cli) - Comprehensive Full-Stack Starter Kit: Powered by Spring Boot and Angular, featuring JWT-based authentication, seamless Flyway migrations, robust route protection, and a command-line interface for quick project initialization.
@@ -893,7 +857,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Site Templates
 
-#### Free
+> Free
 
 * [ng-matero](https://github.com/ng-matero/ng-matero) - Angular Material admin dashboard template.
 * [coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular admin template based on Bootstrap 5.
@@ -946,7 +910,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
 * [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
 
-#### Paid
+> Paid
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [Angular-Templates](https://angular-templates.io/)
@@ -958,7 +922,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Testing
 
-#### E2E
+> E2E
 
 * [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.
 * [cypress-harness](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
@@ -974,7 +938,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
 * [playwright-mcp](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
 
-#### Component
+> Component
 
 * [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/) - Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components.
 * [@jscutlery/playwright-ct-angular](https://github.com/jscutlery/devkit/tree/main/packages/playwright-ct-angular) - Playwright Angular component testing.
@@ -999,14 +963,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [wdio-harness](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 * [testronaut](https://github.com/testronaut/testronaut) - [Testronaut](https://testronaut.github.io/testronaut/) revolutionizes Angular component testing by running components in a real browser with Angular's own build process, ensuring they behave exactly as they do in production. It eliminates mocks and guesswork, allowing developers to visually inspect output and write tests using Playwright's powerful API for precise, real-world validation.
 
-#### Guides
+> Guides
 
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
 * [angular-tour-of-heroes-jest-100-coverage](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 * [how-do-i-test](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=Testing) - A rich source of valuable perspectives and practical tips on testing.
 
-#### Helpers
+> Helpers
 
 * [ng-mocks](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
 * [ng-mocks-sandbox](https://github.com/help-me-mom/ng-mocks-sandbox) - A repo with guides and examples for unit tests in Angular applications using ng-mocks.
@@ -1329,7 +1293,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Forms
 
-#### General
+> General
 
 * [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 * [ngx-mask](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
@@ -1355,7 +1319,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxAccessor](https://github.com/Zarlex/ngxAccessor) - This library introduces an innovative method for interacting with Angular forms and signals. While Angular 19 supports Template Driven Forms and Reactive Forms, this library offers a third approach, seamlessly integrating signals while remaining adaptable to other state management solutions.
 * [angular-template-signal-forms](https://github.com/chocosd/angular-template-signal-forms) - A modern Angular form library built from the ground up with Signals — flexible, type-safe, and fully themeable.
 
-#### Form Controls
+> Form Controls
 
 * [ngx-emoji-mart-next](https://github.com/arturovt/ngx-emoji-mart-next) - Customizable Slack-like emoji picker.
 * [ngx-color](https://github.com/scttcper/ngx-color) - Color Pickers from Sketch, Photoshop, Chrome, GitHub, X, and more.
@@ -1396,7 +1360,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-animated-paginator](https://github.com/eladbh-stanley/ngx-animated-paginator) - Angular wrapper for [animated-paginator-web-component](https://www.npmjs.com/package/animated-paginator-web-component) that plugs seamlessly into template-driven and reactive forms via `ControlValueAccessor`.
 * [ngx-input-color](https://github.com/mr-samani/ngx-input-color) - `ngx-input-color` and `ngx-input-gradient` are powerful, customizable Angular components for color and gradient picking. They support multiple color formats, real-time preview, inline and input modes, and seamless integration with Angular forms.
 
-#### JSON Forms
+> JSON Forms
 
 * [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
 * [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
@@ -1409,7 +1373,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [json-forms-zorro-wrapper](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
 * [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
 
-#### Validation
+> Validation
 
 * [ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
 * [validointi](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
@@ -1721,7 +1685,7 @@ to simplify usage and allow quick customization.
 
 ### State Management
 
-#### NgRx
+> NgRx
 
 * [Official website](https://ngrx.io/)
 * [Official GitHub repository](https://github.com/ngrx/platform) - Reactive State for Angular.
@@ -1745,7 +1709,7 @@ to simplify usage and allow quick customization.
 * [ngrx-set](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
 * [easy-ngrx-distinct-selector](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 
-#### NGXS
+> NGXS
 
 * [Official website](https://www.ngxs.io/)
 * [Official GitHub repository](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
@@ -1757,7 +1721,7 @@ to simplify usage and allow quick customization.
 * [firestore-plugin](https://github.com/ngxs-labs/firestore-plugin) - Firestore plugin for NGXS.
 * [ngxs-reset-plugin](https://github.com/ng-turkey/ngxs-reset-plugin) - Reset plugin for NGXS: Effortlessly clears, resets, or overwrites NGXS states respecting the state tree.
 
-#### Additional
+> Additional
 
 * [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
@@ -1809,7 +1773,7 @@ to simplify usage and allow quick customization.
 
 ### UI Libraries
 
-#### Unspecified
+> Unspecified
 
 * [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
 * [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
@@ -1860,7 +1824,7 @@ to simplify usage and allow quick customization.
 * [kage-ui](https://github.com/sanjib-kumar-mandal/kage-ui) - A lightweight, flexible Angular component library inspired by border-first design systems. It offers a clean set of reusable UI components to help developers build scalable and consistent user interfaces effortlessly.
 * [quix-quang](https://github.com/quix-it/quix-quang) - Angular component and utility library developed by [Quix Srl](https://www.quixconsulting.com/).
 
-#### Material Based
+> Material Based
 
 * [angular-ui-plusify](https://github.com/RockyCott/angular-ui-plusify) - It currently includes a Datetime Picker and the new Markdown Editor components — with plans to continue growing into a comprehensive UI toolkit for Angular developers.
 * [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation.
@@ -1880,7 +1844,7 @@ to simplify usage and allow quick customization.
 * [simplematcomponents](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - Angular Material Dev UI (or Angular Material Blocks) is one place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
 
-#### Bootstrap Based
+> Bootstrap Based
 
 * [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) - Material Design
 for Bootstrap 5 & Angular 17.
@@ -1894,7 +1858,7 @@ for the creation of web applications developed with Angular.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 * [ez-nav](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
-#### Tailwind CSS Based
+> Tailwind CSS Based
 
 * [angular-superui](https://github.com/bhaimicrosoft/angular-superui) - A comprehensive, modern, and accessible Angular UI component library that transforms how you build Angular applications. Built with Tailwind CSS v4, TypeScript, and Angular 17+ Signals, it provides 50+ production-ready components with local-first architecture.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
@@ -1911,11 +1875,11 @@ for the creation of web applications developed with Angular.
 * [tailwind-ng](https://github.com/william-mba/tailwind-ng) - An open source UI components library that aims to provide a seamless and robust integration of Tailwind CSS components with Angular to make building a great UI easier and joyful at any scale.
 * [zapui](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
-#### Node Based
+> Node Based
 
 * [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
-#### Primitives
+> Primitives
 
 * [ng-primitives](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 * [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
