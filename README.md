@@ -758,6 +758,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [swaggular](https://github.com/AlexMA2/swaggular) - A tool to generate Angular services and models from Swagger/OpenAPI specifications.
 * [prism](https://github.com/arclight-digital/prism) - Auto-generate framework wrappers (React, Vue, Svelte, Angular, Solid, Preact) and HTML/CSS examples from Lit web components.
 * [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
+* [bootstrap-angular-schematic](https://github.com/daolvera/bootstrap-angular-schematic) - An Angular schematic that scaffolds a ready-to-use app with Bootstrap 5+, ng-bootstrap, built‑in services, and common UI components.
 
 ### Internationalization
 
