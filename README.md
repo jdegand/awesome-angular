@@ -1184,6 +1184,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [radixweb](https://radixweb.com/starter-kits/enterprise-microservices-boilerplate) - Full production-ready microservices boilerplate.
 * [base-angular-monorepo](https://github.com/myvictorlife/base-angular-monorepo) - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
 * [nx-ng-starter](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
+* [laravel-angular-inertia-starter](https://github.com/Ademking/laravel-angular-inertia-starter) - A modern full-stack starter template combining Laravel, Angular, and Inertia.js.
 
 ### Paid Templates
 
