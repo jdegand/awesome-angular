@@ -612,6 +612,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [analog-stuff](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
 * [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 * [ngx-bun](https://github.com/pegasusheavy/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
+* [nestjs-angular-ssr](https://github.com/Lexmata/nestjs-angular-ssr) - A NestJS module that integrates Angular SSR for Angular v19+ applications.
 
 ## Development Utilities
 
