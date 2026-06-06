@@ -2161,6 +2161,7 @@ for the creation of web applications developed with Angular.
 * [@luminacn/ui](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
+* [gremorie](https://github.com/usegremorie/gremorie) - An AI‑native design system built on `spartan‑ng` and Radix primitives, integrating with Hashbrown and distributed via a `shadcn/ui‑style` registry.
 
 ### Viewers
 
