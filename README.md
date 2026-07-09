@@ -1122,6 +1122,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-magic-test-bed](https://github.com/peejay-solutions/ng-magic-test-bed) - Angular test bed wrapper that allows you to remove a lot of bloat code from your spec files.
 * [schmock](https://github.com/khalic-lab/schmock) - Create callable mock APIs from OpenAPI specs or hand-crafted routes using a plugin pipeline and framework adapters.
 * [vitest-auto-spy](https://github.com/ASDAlexey/vitest-auto-spy) - A drop-in replacement for [jest-auto-spies](https://github.com/hirezio/auto-spies).
+* [spectator](https://github.com/openng-org/spectator) - Helps you get rid of all the boilerplate grunt work, leaving you with readable, sleek and streamlined unit tests.
 
 ## Site Templates
 
