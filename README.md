@@ -1705,6 +1705,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
 * [glyphflow](https://glyph-flow-zeta.vercel.app/) - Lucide icons hand-choreographed per icon and animated on the native Web Animations API — zero animation dependencies, real tree-shaking.
 * [Neural Icons](https://icons.neuralui.org/) - Compare outline and filled styles across 250 icon families to inspect details and copy code directly into your project.
+* [glorpies](https://github.com/sunrakerr/glorpies) - Hand-painted alien avatars from any string.
 
 ### Images
 
