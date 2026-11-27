@@ -1747,7 +1747,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
 * [@TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
 * [ngx-keyboard-shortcuts](https://github.com/phalgunv/ngx-keyboard-shortcuts) - An actively maintained fork of the archived [ngx-keyboard-shortcuts](https://github.com/milestechnologies/ngx-keyboard-shortcuts) package, adding Angular 16+ support and modern tooling.
-* [ngx-command-palette](https://github.com/theryansmee/ngx-command-palette) - Zero-setup, keyboard-driven Angular command palette with auto-registered routes, custom commands, async search, and contextual visibility.
+* [@theryansmee/ngx-command-palette](https://github.com/theryansmee/ngx-command-palette) - Zero-setup, keyboard-driven Angular command palette with auto-registered routes, custom commands, async search, and contextual visibility.
+* [@rrstudioapps/ngx-command-palette](https://github.com/rrstudioapps/ngx-command-palette) - Accessible `Ctrl+K` command palette for Angular: fuzzy search, sections, recents, async providers. Standalone, signals, zoneless, zero dependencies.
 * [gigamenu](https://github.com/flxg-de/gigamenu) - A keyboard-driven command palette menu for Angular applications.
 
 ### Layout
