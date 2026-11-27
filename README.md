@@ -2381,6 +2381,7 @@ for the creation of web applications developed with Angular.
 * [rozie.js](https://github.com/One-Learning-Community/rozie.js) - A cross-framework compiler that transforms single Vue/Alpine-flavored component files into native Angular code without runtime overhead or wrapper boilerplate.
 * [aktion](https://github.com/asfand-dev/aktion) - A single web component that turns a compact, streaming-first DSL into a rich, interactive UI inside its shadow DOM.
 * [wolf-tui](https://github.com/OneEyed1366/wolf-tui) - Write CLI apps with your web framework — React, Vue, Angular, Solid, or Svelte.
+* [AbsoluteJS](https://absolutejs.com/) - Full-stack, type-safe platform on Bun that server-side renders Angular alongside React, Vue, Svelte, HTML, and HTMX in a single build.
 
 ### External Integration
 
