@@ -1392,6 +1392,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bs-grid](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
 * [argus-table](https://github.com/Joessst-Dev/argus-table) - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
 * [dzgrid](https://github.com/plinthworks/dzgrid) - A data grid written from scratch in TypeScript, for applications where right-to-left text, Arabic, time zones and screen readers are not an afterthought.
+* [ngx-agile-table](https://github.com/tchecheRomeo/ngx-agile-table/tree/main/projects/ngx-agile-table) - A library that has been designed to allow you to quickly display data as table in a simple and efficient way.
 
 ### Dates
 
