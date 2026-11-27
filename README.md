@@ -771,6 +771,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [NGX View Builder](https://ngxviewbuilder.io/) - Drag-and-drop low-code builder to visually design entire pages, dashboards, and forms rendered natively via JSON.
 * [openapi-ng](https://github.com/AVSystem/openapi-ng) - Generate TypeScript models and Angular services from OpenAPI 3.x specs — fast, deterministic, Rust-powered.
 * [ForgeCMS](https://github.com/Andersseen/ForgeCMS) - Code-first headless CMS for Angular and Analog.js, with a reusable Angular admin and Cloudflare D1/R2 or Node/libSQL/S3 adapters.
+* [ngx-blocks-studio](https://github.com/winghei/ngx-blocks-studio) - Config-driven Angular app generator for scaffolding schema-based screens, routing, and reference-path state binding.
 
 ### Internationalization
 
