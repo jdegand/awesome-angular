@@ -706,6 +706,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-perf-inspector](https://github.com/VitalieCondorache/ng-perf-inspector) - A lightweight debugging and performance monitoring toolkit for modern Angular applications.
 * [GenClass](https://github.com/genclass-dev/GenClass) - Reports race conditions in the browser while they happen (duplicate submits, failure storms and, once signal state is registered by hand, stale responses); one import in `main.ts`, a small on-device model, report-only by default.
 * [Pangular Inspector](https://github.com/pangular-inspector/devtools) - Inspects a running Angular app (components, signals, DI, router, forms, HTTP, SSR and NgRx) in a browser panel, and serves the same data to AI agents over MCP.
+* [ngx-nudge](https://github.com/thedevumair/ngx-nudge) - Browser-based visual UI editor for Angular that syncs layout, style, and text tweaks directly to your source files as unsaved VS Code edits.
 
 ### Documentation Tools
 
