@@ -2322,6 +2322,7 @@ for the creation of web applications developed with Angular.
 * [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-neon-underline](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
 * [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
+* [openTagCloud](https://github.com/hkoren/openTagCloud) - A dependency-free, self-packing, SSR-friendly tag cloud — a framework-agnostic core with thin adapters for React, Angular, and more.
 
 ## Underlying Technologies
 
