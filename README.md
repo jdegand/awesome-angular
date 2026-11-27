@@ -2242,6 +2242,7 @@ for the creation of web applications developed with Angular.
 * [angular-material-components](https://github.com/fbf-prog64/angular-material-components) - Provides extra components for Angular Material projects: Datetime picker, Time picker, Color picker, etc.
 * [sdcorejs-angular](https://github.com/sdcorejs/sdcorejs-angular) - Reusable Angular UI for data-heavy business applications.
 * [parl](https://github.com/Trixwell/parl) - A backend-agnostic chat UI library for Angular 21+, featuring media previews, message reactions, pinned items, and swipe-to-reply.
+* [easy-mat-ui](https://github.com/chaibiredouane/easy-mat-ui) - Data tables and reusable UI components for Angular Material.
 
 ### UI Libraries built on Tailwind CSS
 
